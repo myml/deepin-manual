@@ -6,6 +6,7 @@ Deepin Manual provides user guides of the system and applications on Deepin.
 
 ### Build dependencies
 
+
 * ca-certificates
 * pkg-config
 * libsass-dev
